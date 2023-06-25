@@ -6,4 +6,4 @@ This is a simple HTML & CSS page
 
 Learning how to style a page
 
-Visit here: https://ugisele.github.io/landing-page
+Visit here: <a href=" https://ugisele.github.io/landing-page">
